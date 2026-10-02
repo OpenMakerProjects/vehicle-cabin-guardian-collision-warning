@@ -1,0 +1,20 @@
+{
+  "id": 792,
+  "title": "Vehicle Cabin Guardian Collision Warning",
+  "repository_slug": "vehicle-cabin-guardian-collision-warning",
+  "category": "Smart Vehicles",
+  "platform": "Teensy 4.1",
+  "platform_family": "arduino",
+  "difficulty": "Beginner",
+  "estimated_hours": 16,
+  "connectivity": "CAN bus",
+  "components": [
+    "GPS module",
+    "cellular modem"
+  ],
+  "scope": "Build a smart vehicles prototype that uses GPS module, cellular modem to warn about close obstacles. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Collision Warning demonstration with repeatable test steps",
+  "mode": "threshold_alert",
+  "entrypoint": "firmware/vehicle-cabin-guardian-collision-warning/vehicle-cabin-guardian-collision-warning.ino",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
